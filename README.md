@@ -1,1 +1,5 @@
-# AMAZON-CLONE-HTML-CSS-JAVASCRIPT
+Amazon clone using
+  HTML
+  Javascript
+  Css
+  
